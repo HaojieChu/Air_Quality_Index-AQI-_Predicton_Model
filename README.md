@@ -6,4 +6,16 @@ With the continuous improvement of residents' personal living standards, people'
 3) Modelling using Classification and Regression Trees (CART), Random Forest, XGBoost, LightGBM, and Naive Bayes respectively. The test set will be used to compare the predicted values with each model and to record the accuracy of each model and each variable. Accuracy results are compared to see which model uses the least number of variables to achieve the highest accuracy in the project.
 4) Using Flask to deploy the data product by visualizing the data and prediction results using multiple forms of charts, and by performing model explanations.
 
+
+## Conclusion
+
 In conclusion, we hope that this data product can help the government implement efficient policies to minimize the impact caused by air pollution and the public can be informed with the latest news on air pollution to take appropriate actions which include reducing outdoor activity or seeking medical attention. Besides, we also hope to motivate changes in both individual behavior and public policy, which may ultimately lead to reductions in emissions of air pollutants from anthropogenic sources, and resulting improvements in public health. In the long run, this project will bring huge benefits to the whole society as prevention is always better than cure.
+
+
+## Contact the Author  
+
+If you got any enquiries or suggestions, I'm all ears :sunglasses:  
+
+- **Institution:**  University of Malaya  :mortar_board: Data Science Graduate  
+- **Author** Haojie Chu
+- **Academic E-mail:** hjchuyu5@gmail.com
