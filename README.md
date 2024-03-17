@@ -6,8 +6,8 @@ With the continuous improvement of residents' personal living standards, people'
 3) Modelling using Classification and Regression Trees (CART), Random Forest, XGBoost, LightGBM, and Naive Bayes respectively. The test set will be used to compare the predicted values with each model and to record the accuracy of each model and each variable. Accuracy results are compared to see which model uses the least number of variables to achieve the highest accuracy in the project.
 4) Using Flask to deploy the data product by visualizing the data and prediction results using multiple forms of charts, and by performing model explanations.
 
-<img src="https://github.com/HaojieChu/Air_Quality_Index_Predicton_WebUI/ui.jpg" width="400" height="500" />
-<img src="https://github.com/HaojieChu/Air_Quality_Index_Predicton_WebUI/ui_2.jpg" width="400" height="500" />
+<img src="https://github.com/HaojieChu/Air_Quality_Index_Predicton_WebUI/blob/main/ui.jpg" width="400" height="500" />
+<img src="https://github.com/HaojieChu/Air_Quality_Index_Predicton_WebUI/blob/main/ui_2.jpg" width="400" height="500" />
 
 ## Conclusion
 
